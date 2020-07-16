@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: ddd3d72ffb15b2045ab933713b22bfab
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SVN-Gotham Rounded
+  fontNames:
+  - SVN-Gotham Rounded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 060b1d954c9bda14b9e96410be7723c5, type: 3}
+  - {fileID: 12800000, guid: 980055961adc3824cbe16915c977680b, type: 3}
+  - {fileID: 12800000, guid: af792608b15cae1469a388742e911cbd, type: 3}
+  - {fileID: 12800000, guid: 2580f9896f6bfa44381d41402a164ee4, type: 3}
+  - {fileID: 12800000, guid: 97224c1b01a2b814aa3cea6d4750ae0d, type: 3}
+  - {fileID: 12800000, guid: 57f1d96dc8f6342408a1ce7f19e04451, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
